@@ -47,8 +47,8 @@ fun_fact: "Turns coffee into code ☕ → 💻"
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Sanjaycode21&show_icons=true&theme=tokyonight&border_color=00F7FF&bg_color=0d1117&title_color=00F7FF&icon_color=ff6ac1&text_color=c9d1d9" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanjaycode21&layout=compact&theme=tokyonight&border_color=00F7FF&bg_color=0d1117&title_color=00F7FF&text_color=c9d1d9" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=Sanjaycode21&show_icons=true&theme=tokyonight&border_color=00F7FF&bg_color=0d1117&title_color=00F7FF&icon_color=ff6ac1&text_color=c9d1d9" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Sanjaycode21&layout=compact&theme=tokyonight&border_color=00F7FF&bg_color=0d1117&title_color=00F7FF&text_color=c9d1d9" />
 </p>
 
 <p align="center">
@@ -64,7 +64,7 @@ fun_fact: "Turns coffee into code ☕ → 💻"
 ### 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=Sanjaycode21&theme=tokyo-night&hide_border=true&area=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sanjaycode21&theme=tokyo-night&hide_border=true&area=true" />
 </p>
 
 ---
