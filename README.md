@@ -56,7 +56,7 @@ fun_fact: "Turns coffee into code ☕ → 💻"
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sanjaycode21&theme=tokyonight&no-frame=true&column=4&margin-w=8&margin-h=8" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Sanjaycode21&theme=darkhub&no-frame=true&column=4&margin-w=8&margin-h=8" />
 </p>
 
 ---
