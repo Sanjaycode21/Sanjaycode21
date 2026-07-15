@@ -1,140 +1,76 @@
-<h1 align="center">Hi 👋, I'm Sanjay R</h1>
-<h3 align="center">Computer Science Student | Web Developer | Building Projects & Learning Every Day 🚀</h3>
+<h1 align="center">Hi there, I'm Sanjay R 👋</h1>
+<h3 align="center">Full-Stack Developer | Building with Python & Next.js</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Building+Web+Applications+🚀;Learning+Java+%26+AI;Open+to+Internship+Opportunities;Documenting+My+Journey+💻" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Python+%2B+Next.js+Enthusiast;Building+Cool+Things+%F0%9F%9A%80;Always+Learning+%F0%9F%93%9A" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/sanjayr21">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=180&section=header&text=Welcome%20to%20my%20Profile&fontSize=40&fontColor=00F7FF&animation=fadeIn&fontAlignY=38" />
+</p>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/sanjayr21/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
   <a href="mailto:sanjaycode21@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-
-  <a href="https://github.com/Sanjaycode21">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+  <a href="https://github.com/Sanjaycode21" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=00F7FF" />
   </a>
 </p>
 
 ---
 
-# 👨‍💻 About Me
+### 🧑‍💻 About Me
 
 ```yaml
-Name: Sanjay R
-
-Education:
-  B.Tech Computer Science
-  SRM Institute of Science and Technology
-
-Currently Learning:
-  - Java
-  - Data Structures & Algorithms
-  - Next.js
-  - AI Fundamentals
-
-Currently Building:
-  - Client Websites
-  - Personal Projects
-  - Zockle
-
-Goal:
-  Secure a Software Engineering Internship
+name: Sanjay R
+role: Full-Stack Developer
+languages: [Python, JavaScript/TypeScript]
+frameworks: [Next.js, React, Node.js]
+currently_exploring: "Modern web architectures & AI-powered apps"
+fun_fact: "Turns coffee into code ☕ → 💻"
 ```
 
 ---
 
-# 🚀 Featured Projects
-
-### 🌐 Textile Manufacturing Website
-A responsive website built for a real client using modern web technologies.
-
----
-
-### 🏫 Smart Classroom
-A Smart India Hackathon project focused on attendance management and classroom organization.
-
----
-
-### 💡 Zockle
-Currently building Zockle — starting with web development services and expanding toward SaaS products.
-
----
-
-### 🌍 Portfolio Website
-A personal portfolio showcasing my projects, skills, and learning journey.
-
----
-
-# 🛠 Tech Stack
+### ⚡ Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,python,java,git,github,vscode,postman&theme=dark"/>
+  <img src="https://skillicons.dev/icons?i=python,nextjs,react,js,ts,nodejs,html,css,git,github,vscode,postman&theme=dark" />
 </p>
 
 ---
 
-# 📈 GitHub Stats
+### 📊 GitHub Stats
 
 <p align="center">
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=Sanjaycode21&show_icons=true&theme=tokyonight&border_color=00F7FF&bg_color=0d1117&title_color=00F7FF&icon_color=ff6ac1&text_color=c9d1d9" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Sanjaycode21&layout=compact&theme=tokyonight&border_color=00F7FF&bg_color=0d1117&title_color=00F7FF&text_color=c9d1d9" />
+</p>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Sanjaycode21&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanjaycode21&layout=compact&theme=tokyonight&hide_border=true"/>
-
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sanjaycode21&theme=tokyonight&border=00F7FF&background=0d1117&ring=ff6ac1&fire=ff6ac1&currStreakLabel=00F7FF" />
 </p>
 
 ---
 
-# 🔥 GitHub Streak
+### 📈 Contribution Graph
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sanjaycode21&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-# 📊 Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sanjaycode21&theme=tokyo-night&hide_border=true&area=true"/>
-</p>
-
----
-
-# 🎯 2026 Goals
-
-- ✅ Build 20+ Projects
-- ✅ Become proficient in Java & DSA
-- ✅ Contribute to Open Source
-- ✅ Land a Software Engineering Internship
-- ✅ Grow Zockle 🚀
-
----
-
-# 📫 Let's Connect
-
-If you're interested in collaborating, discussing ideas, or just saying hello, feel free to connect with me!
-
-<p align="center">
-<a href="mailto:sanjaycode21@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/sanjayr21">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sanjaycode21&theme=tokyo-night&hide_border=true&area=true" />
 </p>
 
 ---
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=Sanjaycode21&style=for-the-badge&color=0e75b6"/>
+  <img src="https://komarev.com/ghpvc/?username=Sanjaycode21&style=for-the-badge&color=00F7FF&label=PROFILE+VIEWS" />
 </p>
 
-<h3 align="center">
-⭐ Thanks for visiting my profile! ⭐
-</h3>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:16213e,100:1a1a2e&height=100&section=footer" />
+</p>
+
+<h3 align="center">💬 "Code is like humor. When you have to explain it, it's bad." 😄</h3>
