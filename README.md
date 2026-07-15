@@ -55,10 +55,6 @@ fun_fact: "Turns coffee into code ☕ → 💻"
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sanjaycode21&theme=tokyonight&border=00F7FF&background=0d1117&ring=ff6ac1&fire=ff6ac1&currStreakLabel=00F7FF" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=Sanjaycode21&theme=darkhub&no-frame=true&column=4&margin-w=8&margin-h=8" />
-</p>
-
 ---
 
 ### 📈 Contribution Graph
