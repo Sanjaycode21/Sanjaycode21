@@ -139,29 +139,17 @@ goal_2026:
 
 # 📊 GitHub Stats
 
-<p align="center">
+## 📊 GitHub Stats
 
+<p align="center">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sanjaycode21&theme=tokyonight"/>
-
 </p>
 
 <p align="center">
-
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sanjaycode21&theme=tokyonight"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sanjaycode21&theme=tokyonight"/>
-
-</p>
-
-<p align="center">
-
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sanjaycode21&theme=tokyonight"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sanjaycode21&theme=tokyonight&utcOffset=5.5"/>
-
 </p>
 
----
 
 # 🔥 GitHub Streak
 
