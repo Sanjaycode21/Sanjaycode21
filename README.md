@@ -1,11 +1,11 @@
 <h1 align="center">Hi there, I'm Sanjay R 👋</h1>
 
 <h3 align="center">
-Computer Science Student at SRM IST • Building Full-Stack Web Applications • Always Learning 🚀
+Computer Science Student at SRM IST • Building Real-World Full-Stack Projects • Always Learning 🚀
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=8B5CF6&center=true&vCenter=true&width=700&lines=Building+Real+Projects+💻;Learning+Java+%26+Backend+Development;Exploring+AI+Applications;Open+to+Internship+Opportunities+🚀" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=23&pause=1200&color=8B5CF6&center=true&vCenter=true&width=850&lines=Building+Real-World+Full-Stack+Projects;Learning+Java+%26+Backend+Development;Exploring+AI+Applications;Open+to+Software+Engineering+Internships" />
 </p>
 
 <p align="center">
@@ -26,16 +26,17 @@ Computer Science Student at SRM IST • Building Full-Stack Web Applications •
 
 # 👨‍💻 About Me
 
-I'm a Computer Science student at **SRM Institute of Science and Technology** with a passion for building software that solves real-world problems.
+I'm a Computer Science student at **SRM Institute of Science and Technology (SRM IST)** passionate about building software that solves real-world problems.
 
-I enjoy turning ideas into full-stack web applications while continuously improving my skills in backend development, problem-solving, and software engineering.
+I enjoy turning ideas into full-stack web applications while continuously improving my skills in backend development, software engineering, and problem-solving.
 
 Currently focusing on:
 
 - 🌐 Full-Stack Web Development
 - ☕ Java & Data Structures
-- 🤖 AI & Modern Development Tools
-- 🚀 Building projects and gaining real-world experience
+- 🤖 AI-powered Applications
+- 🚀 Building real-world projects
+- 📚 Learning something new every day
 
 ---
 
@@ -44,25 +45,25 @@ Currently focusing on:
 ### Languages
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java,python,js,ts,html,css" />
+<img src="https://skillicons.dev/icons?i=java,python,js,ts,html,css"/>
 </p>
 
 ### Frontend
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind"/>
 </p>
 
 ### Backend & Database
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,prisma,supabase,postgres" />
+<img src="https://skillicons.dev/icons?i=nodejs,prisma,supabase,postgres"/>
 </p>
 
 ### Tools
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel"/>
 </p>
 
 ---
@@ -71,42 +72,43 @@ Currently focusing on:
 
 ## 🌐 GKB Textiles
 
-Professional business website developed for a textile manufacturing company.
+A professional website developed for a textile manufacturing company.
 
-**Tech Stack**
+**Built with**
+
 - Next.js
 - TypeScript
 - Tailwind CSS
-- Supabase
 - Prisma
+- Supabase
 - Vercel
 
 ---
 
 ## 💼 Zockle
 
-Building a modern software brand focused on web development and future SaaS products.
+Building a software brand focused on modern web development and future SaaS products.
 
 ---
 
 ## 🎓 Smart Classroom
 
-Hackathon project focused on attendance management and smart classroom solutions.
+Hackathon project aimed at improving classroom attendance and management.
 
 ---
 
 ## 🌍 Personal Portfolio
 
-A portfolio showcasing my projects, learning journey, and technical skills.
+A portfolio showcasing my projects, technical skills, and learning journey.
 
 ---
 
 # 🏆 Achievements
 
 - 🏅 IBM Artificial Intelligence Fundamentals
-- 🏆 Smart India Hackathon (SRM Internal Top 50 Team)
+- 🏆 Smart India Hackathon – SRM Internal Top 50 Team
 - 💡 InnoHack 2026 – VIT
-- 🔐 Kyberastra 2025 – Amrita
+- 🔐 Kyberastra 2025 – Amrita University
 - ⚡ Smart Motion Hackathon 2.0 – CIT
 - 💼 Built and delivered my first freelance client website
 
@@ -115,12 +117,13 @@ A portfolio showcasing my projects, learning journey, and technical skills.
 # 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-stats-extended.vercel.app/api?username=Sanjaycode21&show_icons=true&theme=tokyonight&border_color=8B5CF6&bg_color=0d1117&title_color=A78BFA&icon_color=8B5CF6&text_color=c9d1d9" />
-  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Sanjaycode21&layout=compact&theme=tokyonight&border_color=8B5CF6&bg_color=0d1117&title_color=A78BFA&text_color=c9d1d9" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Sanjaycode21&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanjaycode21&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sanjaycode21&theme=tokyonight&border=8B5CF6&background=0d1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Sanjaycode21&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -135,15 +138,15 @@ A portfolio showcasing my projects, learning journey, and technical skills.
 
 # 🎯 Current Goals
 
-- 🚀 Build high-quality full-stack applications
+- 🚀 Build production-ready web applications
 - ☕ Strengthen Java & DSA
 - 🌍 Contribute to Open Source
-- 💼 Secure a Software Engineering Internship
-- 📚 Learn something new every day
+- 💼 Land a Software Engineering Internship
+- 📚 Become a better developer every day
 
 ---
 
-# 📫 Let's Connect
+# 📫 Connect With Me
 
 <p align="center">
 
@@ -163,6 +166,6 @@ A portfolio showcasing my projects, learning journey, and technical skills.
 
 ### ⭐ Thanks for visiting my profile!
 
-*"Learning by building, improving one project at a time."*
+*"Learning by building. Improving one project at a time."*
 
 </div>
